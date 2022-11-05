@@ -1,5 +1,9 @@
 ORGK
 
+<details>
+<summary>topic split</summary>
+  
+  
 Marc:
 
 What is ORKG?
@@ -24,6 +28,8 @@ why should we interact?
 - better digital communication
 
 
+  </details>
+  
 
 
 tools:
