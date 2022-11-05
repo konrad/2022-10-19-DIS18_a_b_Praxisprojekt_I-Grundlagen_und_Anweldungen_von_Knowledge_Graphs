@@ -51,58 +51,48 @@ https://orkg.org/about/11/History
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-ORGK
+<style>
+summary{
+color:lightblue;
+margin-top:2em;
+}
+</style>
 
 <details>
-<summary>topic split</summary>
-  
-  
-Marc:
 
-What is ORKG?
-- founded by 
-- gitlab
-- builds on
-- cool timeline history
+<summary>problems in sience</summary>
 
 
-What are they doing?
-- why things
-- other activities
-
-Bene:
-how can we interact?
-- tools
-- examples
-
-why should we interact?
-- orkg against competitors
-- easy way of sharing
-- better digital communication
+- scinece papers didnt change over many years, still today mostly on pdfs. which are really bad for machines to read.
+- reproducibility is very low
+    - it works on my machine meme
+- root cause its hard to communicated with other sienentists
 
 
+</details>
+
+ <details>
+<summary>#orkg_cool_things</summary>
+
+- contribute to building a knowledge base for science 
+- gain visibilty
+- provide a key service to your community
+- convince peer-reviewrs
+- get qualitative feedback
+- get cited
+
+- from knowledge graph to a science graph
+(table difference)
   </details>
-  
+<details>
 
+<summary>#tools</summary>
 
-tools:
 import:
-  contribution editor
-  csv import
-  survey table import
-  templates
+  - contribution editor
+  - csv import
+  - survey table import
+  - templates
 
 export:
   - REST API
@@ -110,18 +100,36 @@ export:
   - SPQARQL endpoint
   - RDF Dump
   
+  </details>
   
-  <details>
   
-  <summary>Spoiler warning</summary>
+<details>
+<summary>#examples</summary>
+
+non technical ways:
+- https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
+
+techincal ways:
+
+for eaxample work with python:
+- https://gitlab.com/TIBHannover/orkg/orkg-notebooks
+- use sparl syntax:
+https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0Aselect%20%3Ftest%20%3Ftest_2%0Awhere%20%7B%0A%3Ftest_2%20orkgp%3AP5%20%3Ftest%7D%20LIMIT%20100
+
+
+
+
+  </details>
+
+
+
   
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
   
-  ```javascript
-  console.log("I'm a code block!");
-  ```
   
-</details>
+
+
+
+
   
   
   
