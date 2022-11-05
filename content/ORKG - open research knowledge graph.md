@@ -1,7 +1,6 @@
 
 
 
-
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
     
@@ -118,9 +117,6 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 
 
   </details>
-
-
-
   
   
   
