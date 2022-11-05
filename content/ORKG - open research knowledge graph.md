@@ -23,7 +23,7 @@ https://orkg.org/about/11/History
 
 </details>
 <details>
-## Main focus of ORKG
+    <summary> Main focus of ORKG </summary>
 
 ### The Problem
 - The science community has communicated the same way since its upcoming.
@@ -46,7 +46,7 @@ https://orkg.org/about/11/History
 ## Other Activities
 
 
-
+</details>
 
 
 
