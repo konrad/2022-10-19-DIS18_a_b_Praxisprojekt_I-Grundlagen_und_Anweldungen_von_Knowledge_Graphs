@@ -46,8 +46,14 @@ https://orkg.org/about/11/History
 - Using ORGK, researchers can explore more knowledge and share results over different disciplines.
 
 ## Other Activities
-
-
+#### Workshops
+    -ORKG offers Workshops with topics like:
+		    -Front- Backend developments
+		    -Beyond research data infrastructures - exploiting artificial & crowd intelligence for building research knowledge graphs
+		    -Ontology-driven Research in Material Science
+		    -And many more 
+#### Events
+    -ORKG joins and hosts webinars as well as live events with speakers 
 </details>
 
 
