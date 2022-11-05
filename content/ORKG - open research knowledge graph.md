@@ -1,9 +1,4 @@
-<style>
-summary{
-color:lightblue;
-margin-top:2em;
-}
-</style>
+
 
 
 
