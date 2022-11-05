@@ -47,15 +47,17 @@ https://orkg.org/about/11/History
 
 ### Other Activities
 	
--Workshops
-    -ORKG offers Workshops with topics like:
-	-Front- Backend developments
-	-Beyond research data infrastructures - exploiting artificial & crowd intelligence for building research knowledge graphs
-	-Ontology-driven Research in Material Science
-	-And many more 
+#### Workshops
+
+- ORKG offers Workshops with topics like:
+    - Front- Backend developments
+    - Beyond research data infrastructures - exploiting artificial & crowd intelligence for building research knowledge graphs
+    - Ontology-driven Research in Material Science
+    - And many more
+    
+#### Events
 	
--Events
-    -ORKG joins and hosts webinars as well as live events with speakers 
+ - ORKG joins and hosts webinars as well as live events with speakers 
 </details>
 
 
