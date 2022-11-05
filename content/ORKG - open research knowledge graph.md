@@ -1,3 +1,11 @@
+<style>
+summary{
+color:lightblue;
+margin-top:2em;
+}
+</style>
+
+
 
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
@@ -51,12 +59,7 @@ https://orkg.org/about/11/History
 
 
 
-<style>
-summary{
-color:lightblue;
-margin-top:2em;
-}
-</style>
+
 
 <details>
 
