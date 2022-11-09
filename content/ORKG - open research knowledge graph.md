@@ -215,6 +215,13 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 	
 </details>
   
+find more information:
+https://repository.publisso.de/resource/frl:6424223/data
+
+https://orkg.org/
+
+  
+  
   <br />
 Benedikt Sellmaier, Marc Biehl -  09.11.2022
 
