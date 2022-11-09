@@ -172,11 +172,11 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 <summary>Question 1</summary>
 	
 ## Question 1
-## !!!!!!!
--
--
--
--
+## Why is saving a paper as pdf not great?
+- Humans have difficulties extracting informations
+- Hard to show on mobilephones
+- Problems on how it can be interpreted by diffrent divces
+- Computers have difficulties extracting informations
 	
 
 	
@@ -205,11 +205,11 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 
 	
 ## Question 3
-## !!!!!!!
--
--
--
--
+## Who's supposed to upload to ORKG?
+- Scientist 
+- Journalist
+- Student
+- Biologist
 	
 
 	
