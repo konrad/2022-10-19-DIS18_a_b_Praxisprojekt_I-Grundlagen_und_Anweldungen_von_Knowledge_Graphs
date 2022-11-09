@@ -214,14 +214,20 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 
 	
 </details>
-  
-find more information:
+
+<details>
+
+<summary>find more information</summary>
+
+Find more information
 
 https://repository.publisso.de/resource/frl:6424223/data
 
 https://de.slideshare.net/soeren1611/towards-knowledge-graph-based-representation-augmentation-and-exploration-of-scholarly-communications
 
 https://orkg.org/
+
+</details>
 
   
   
