@@ -78,7 +78,7 @@ https://orkg.org/about/11/History
 </details>
 
  <details>
-<summary>#orkg_cool_things</summary>
+<summary>Benefits for the individual</summary>
 
 - contribute to building a knowledge base for science 
 - gain visibilty
@@ -86,9 +86,6 @@ https://orkg.org/about/11/History
 - convince peer-reviewrs
 - get qualitative feedback
 - get cited
-
-- from knowledge graph to a science graph
-(table difference)
   </details>
   
 <details>
@@ -111,7 +108,7 @@ export:
   
   
 <details>
-<summary>#examples</summary>
+<summary>Examples</summary>
 
 non technical ways:
 - https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
@@ -122,8 +119,6 @@ for eaxample work with python:
 - https://gitlab.com/TIBHannover/orkg/orkg-notebooks
 - use sparl syntax:
 https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0Aselect%20%3Ftest%20%3Ftest_2%0Awhere%20%7B%0A%3Ftest_2%20orkgp%3AP5%20%3Ftest%7D%20LIMIT%20100
-
-
 
 
   </details>
