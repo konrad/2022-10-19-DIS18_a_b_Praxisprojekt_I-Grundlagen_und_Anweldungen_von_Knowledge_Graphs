@@ -2,8 +2,8 @@
 
 
 
-
-# Presentation Open Research Knowledge Graphs ![orkg](https://user-images.githubusercontent.com/45356497/200836950-43cad4f3-95b3-42b4-adc0-3a2a8095ec27.svg)
+![orkg](https://user-images.githubusercontent.com/45356497/200836950-43cad4f3-95b3-42b4-adc0-3a2a8095ec27.svg)
+# Presentation Open Research Knowledge Graphs 
 Benedikt Sellmaier, Marc Biehl -  09.11.2022
 
 
