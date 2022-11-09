@@ -74,7 +74,7 @@ https://orkg.org/about/11/History
 <details>
 
 	
-<summary>Problems in sience</summary>
+<summary>Problems in science</summary>
 
 ### - Science papers haven't changed over many years. <br /> Science is still today mostly on pdfs, which are really bad for machines to read.
 ### - Reproducibility is very low
@@ -90,6 +90,46 @@ https://orkg.org/about/11/History
 
 
 </details>
+  
+<details>
+
+<summary>Tools</summary>
+
+## import:
+ ### - contribution editor
+ ### - csv import
+ ### - survey table import
+ ### - templates
+	
+<br />
+
+## export:
+  ### - REST API
+  ### - Python package
+  ### - SPARQL endpoint
+  ### - RDF Dump
+  
+  </details>
+  
+  
+<details>
+<summary>Examples</summary>
+	
+## Examples
+
+### Data engagment (GUI):
+- https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
+
+### Data engagment (Programming):
+	
+#### Python gitlab of TIBHannover
+- https://gitlab.com/TIBHannover/orkg/orkg-notebooks
+- use sparl syntax:
+https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0Aselect%20%3Ftest%20%3Ftest_2%0Awhere%20%7B%0A%3Ftest_2%20orkgp%3AP5%20%3Ftest%7D%20LIMIT%20100
+
+
+  </details>
+
 
  <details>
 <summary>Benefits for the individual</summary>
@@ -123,47 +163,12 @@ https://orkg.org/about/11/History
 ### - get cited
 	
   </details>
-  
-<details>
-
-<summary>Tools</summary>
-
-## import:
- ### - contribution editor
- ### - csv import
- ### - survey table import
- ### - templates
-	
-<br />
-
-## export:
-  ### - REST API
-  ### - Python package
-  ### - SPQARQL endpoint
-  ### - RDF Dump
-  
-  </details>
-  
-  
-<details>
-<summary>Examples</summary>
-	
-## Examples
-
-### Data engagment (GUI):
-- https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
-
-### Data engagment (Programming):
-	
-#### Python gitlab of TIBHannover
-- https://gitlab.com/TIBHannover/orkg/orkg-notebooks
-- use sparl syntax:
-https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0Aselect%20%3Ftest%20%3Ftest_2%0Awhere%20%7B%0A%3Ftest_2%20orkgp%3AP5%20%3Ftest%7D%20LIMIT%20100
 
 
-  </details>
 
 <br />
+  
+  
   
   <details>
 
