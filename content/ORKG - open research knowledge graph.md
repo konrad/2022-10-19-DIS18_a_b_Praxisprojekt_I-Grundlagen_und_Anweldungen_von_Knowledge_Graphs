@@ -68,10 +68,12 @@ https://orkg.org/about/11/History
 
 
 
+<br />
 
 
 <details>
 
+	
 <summary>Problems in sience</summary>
 
 ### - Science papers haven't changed over many years. <br /> Science is still today mostly on pdfs, which are really bad for machines to read.
@@ -160,6 +162,8 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 
 
   </details>
+
+<br />
   
   <details>
 
