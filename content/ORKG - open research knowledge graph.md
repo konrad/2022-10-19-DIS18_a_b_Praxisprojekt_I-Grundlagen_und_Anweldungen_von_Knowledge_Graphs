@@ -71,20 +71,12 @@ https://orkg.org/about/11/History
 
 ### - science papers haven't changed over many years. Science is still today mostly on pdfs, which are really bad for machines to read.
 ### - reproducibility is very low
-	
-\n
-\n
-	\n
-\n\n
-\n\n
-\n\n
-\n\n
-\n
-
-![meme_works_on_my_machine](https://user-images.githubusercontent.com/45356497/200833852-02d2cb88-1d1b-4a20-92dd-09abe1a7b85a.jpeg)
+### - root cause: its hard to communicate with other scientists
 
 	
-- root cause: its hard to communicate with other scientists
+![meme_works_on_my_machine](https://user-images.githubusercontent.com/45356497/200833852-02d2cb88-1d1b-4a20-92dd-09abe1a7b85a.jpeg | width=100)
+
+	
 
 
 </details>
