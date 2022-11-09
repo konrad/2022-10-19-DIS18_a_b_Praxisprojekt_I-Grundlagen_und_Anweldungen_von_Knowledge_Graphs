@@ -1,5 +1,6 @@
 
 
+![orkg](https://user-images.githubusercontent.com/45356497/200836950-43cad4f3-95b3-42b4-adc0-3a2a8095ec27.svg)
 
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
