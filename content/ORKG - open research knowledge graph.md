@@ -3,9 +3,8 @@
 
 
 ![orkg](https://user-images.githubusercontent.com/45356497/200836950-43cad4f3-95b3-42b4-adc0-3a2a8095ec27.svg)
-# Presentation Open Research Knowledge Graphs 
-Benedikt Sellmaier, Marc Biehl -  09.11.2022
-
+# Open Research Knowledge Graphs 
+<br />
 
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
@@ -75,12 +74,15 @@ https://orkg.org/about/11/History
 
 <summary>Problems in sience</summary>
 
-### - science papers haven't changed over many years. Science is still today mostly on pdfs, which are really bad for machines to read.
-### - reproducibility is very low
-### - root cause: its hard to communicate with other scientists
+### - Science papers haven't changed over many years. <br /> Science is still today mostly on pdfs, which are really bad for machines to read.
+### - Reproducibility is very low
+### - Root cause: its hard to communicate with other scientists
 
+<br />
+<br />
 	
-![meme_works_on_my_machine](https://user-images.githubusercontent.com/45356497/200833852-02d2cb88-1d1b-4a20-92dd-09abe1a7b85a.jpeg)
+![meme_works_on_my_machine](https://user-images.githubusercontent.com/45356497/200840366-15560ca0-124d-45c9-a882-fd316929b8df.jpeg)
+
 
 	
 
@@ -91,20 +93,15 @@ https://orkg.org/about/11/History
 <summary>Benefits for the individual</summary>
 
 ### - contribute to building a knowledge base for science 
-	
-	
+<br />
 ### - gain visibilty
-	
-	
+<br />
 ### - provide a key service to your community
-	
-	
+<br />
 ### - convince peer-reviewrs
-	
-	
+<br />
 ### - get qualitative feedback
-	
-	
+<br />
 ### - get cited
   </details>
   
@@ -142,6 +139,10 @@ https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org
 
 
   </details>
+  
+  <br />
+Benedikt Sellmaier, Marc Biehl -  09.11.2022
+
   
   
   
