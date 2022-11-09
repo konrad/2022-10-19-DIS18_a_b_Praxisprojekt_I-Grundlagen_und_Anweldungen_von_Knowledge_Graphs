@@ -84,12 +84,22 @@ https://orkg.org/about/11/History
  <details>
 <summary>Benefits for the individual</summary>
 
-- contribute to building a knowledge base for science 
-- gain visibilty
-- provide a key service to your community
-- convince peer-reviewrs
-- get qualitative feedback
-- get cited
+### - contribute to building a knowledge base for science 
+	
+	
+### - gain visibilty
+	
+	
+### - provide a key service to your community
+	
+	
+### - convince peer-reviewrs
+	
+	
+### - get qualitative feedback
+	
+	
+### - get cited
   </details>
   
 <details>
