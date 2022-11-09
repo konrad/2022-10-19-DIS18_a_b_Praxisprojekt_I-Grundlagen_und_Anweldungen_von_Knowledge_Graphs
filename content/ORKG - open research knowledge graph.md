@@ -148,18 +148,68 @@ https://orkg.org/about/11/History
 	
 ## Examples
 
-### non programming data engagment:
+### Data engagment (GUI):
 - https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
 
-### with programming data engagment:
-
-for eaxample work with python:
+### Data engagment (Programming):
+	
+#### Python gitlab of TIBHannover
 - https://gitlab.com/TIBHannover/orkg/orkg-notebooks
 - use sparl syntax:
 https://orkg.org/sparql/?help=views#PREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0Aselect%20%3Ftest%20%3Ftest_2%0Awhere%20%7B%0A%3Ftest_2%20orkgp%3AP5%20%3Ftest%7D%20LIMIT%20100
 
 
   </details>
+  
+  <details>
+
+<br />
+
+<summary>Question 1</summary>
+	
+## Question 1
+## !!!!!!!
+-
+-
+-
+-
+	
+
+	
+</details>
+
+  <details>
+<summary>Question 2</summary>
+	
+<br />
+	
+## Question 2
+## What are the benefits of publishing a paper on ORKG?
+- More visibility
+- More peer reviews
+- Better academic acknowledgment
+- Better chance to get cited
+
+<br />
+
+
+</details>
+  <details>
+<summary>Question 3</summary>
+
+<br />
+
+	
+## Question 3
+## !!!!!!!
+-
+-
+-
+-
+	
+
+	
+</details>
   
   <br />
 Benedikt Sellmaier, Marc Biehl -  09.11.2022
