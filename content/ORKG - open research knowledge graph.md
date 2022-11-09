@@ -92,34 +92,48 @@ https://orkg.org/about/11/History
  <details>
 <summary>Benefits for the individual</summary>
 
+<br />
+
+	
 ### - contribute to building a knowledge base for science 
+
 <br />
+	
 ### - gain visibilty
+
 <br />
+	
 ### - provide a key service to your community
+	
 <br />
+	
 ### - convince peer-reviewrs
+	
 <br />
+	
 ### - get qualitative feedback
+	
 <br />
+	
 ### - get cited
+	
   </details>
   
 <details>
 
 <summary>Tools</summary>
 
-import:
-  - contribution editor
-  - csv import
-  - survey table import
-  - templates
+### import:
+ ### - contribution editor
+ ### - csv import
+ ### - survey table import
+ ### - templates
 
-export:
-  - REST API
-  - Python package
-  - SPQARQL endpoint
-  - RDF Dump
+### export:
+  ### - REST API
+  ### - Python package
+  ### - SPQARQL endpoint
+  ### - RDF Dump
   
   </details>
   
