@@ -67,13 +67,12 @@ https://orkg.org/about/11/History
 
 <details>
 
-<summary>problems in sience</summary>
+<summary>Problems in sience</summary>
 
-
-- scinece papers didnt change over many years, still today mostly on pdfs. which are really bad for machines to read.
+- science papers haven't changed over many years. Science is still today mostly on pdfs, which are really bad for machines to read.
 - reproducibility is very low
     - it works on my machine meme
-- root cause its hard to communicated with other sienentists
+- root cause: its hard to communicate with other scientists
 
 
 </details>
@@ -91,9 +90,10 @@ https://orkg.org/about/11/History
 - from knowledge graph to a science graph
 (table difference)
   </details>
+  
 <details>
 
-<summary>#tools</summary>
+<summary>Tools</summary>
 
 import:
   - contribution editor
