@@ -92,6 +92,9 @@ https://orkg.org/about/11/History
  <details>
 <summary>Benefits for the individual</summary>
 
+
+## Benefits for the individual
+
 <br />
 
 	
@@ -123,13 +126,15 @@ https://orkg.org/about/11/History
 
 <summary>Tools</summary>
 
-### import:
+## import:
  ### - contribution editor
  ### - csv import
  ### - survey table import
  ### - templates
+	
+<br />
 
-### export:
+## export:
   ### - REST API
   ### - Python package
   ### - SPQARQL endpoint
@@ -140,11 +145,13 @@ https://orkg.org/about/11/History
   
 <details>
 <summary>Examples</summary>
+	
+## Examples
 
-non technical ways:
+### non programming data engagment:
 - https://orkg.org/contribution-editor?contributions=R3053,R3061,R3044
 
-techincal ways:
+### with programming data engagment:
 
 for eaxample work with python:
 - https://gitlab.com/TIBHannover/orkg/orkg-notebooks
